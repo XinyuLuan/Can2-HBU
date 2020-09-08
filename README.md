@@ -2,7 +2,6 @@
 Can2 Harvest Bible University Official Website
 
 ## Getting Start
-Mac:
 * make sure you have [JDK 1.8](https://www.oracle.com/java/technologies/javase-downloads.html)
   * go to Terminal(mac) or Command prompt(windows) and type `java -version`
   * see if your result is ![image](https://user-images.githubusercontent.com/25126842/92426661-62244800-f13f-11ea-8c4a-05d423eed3f0.png)
